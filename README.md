@@ -1,5 +1,5 @@
 - Hi, I’m sanjay
-- I’m interested in mmachine learning and deep learning
+- I’m interested in machine learning and deep learning
 - Email: sanjayka@mtu.edu
 
 <!---
