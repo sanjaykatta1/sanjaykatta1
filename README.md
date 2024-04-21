@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Software Engineer
 
-👨‍💻 Currently mostly into webapps and devtools. Build most stuff using the create-t3-app stack
+👨‍💻 Currently mostly into webapps and devtools.
 
 🤝 Open Source Enthusiast
 
