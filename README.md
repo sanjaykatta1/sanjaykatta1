@@ -12,7 +12,7 @@ Software Engineer
 
 🤝 Open Source Enthusiast
 
-🧑‍🏫 "Best way to learn is to build shit" - TheoBr
+🧑‍🏫 "Best way to learn is to build shit" 
 
 
 Tech I'm passionate about
