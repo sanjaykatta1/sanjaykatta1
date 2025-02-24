@@ -12,9 +12,6 @@ Software Engineer
 
 🤝 Open Source Enthusiast
 
-🧑‍🏫 "Best way to learn is to build shit" 
-
-
 Tech I'm passionate about
 
 Typescript  React  NextJs  tRPC  TailwindCSS  Prisma  PlanetScale
